@@ -1,5 +1,5 @@
 {
-  "name": "danielholmes/discord-bot-builder",
+  "name": "dholmes/discord-bot-builder",
   "version": "0.0.1",
   "require": {
     "team-reflex/discord-php": "4.*",
