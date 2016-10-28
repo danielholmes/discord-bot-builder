@@ -1,0 +1,20 @@
+{
+  "name": "danielholmes/discord-bot-builder",
+  "version": "0.0.1",
+  "require": {
+    "team-reflex/discord-php": "4.*",
+    "guzzlehttp/guzzle": "6.*",
+    "symfony/debug": "3.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.*",
+    "phake/phake": "2.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "": [
+        "src/"
+      ]
+    }
+  }
+}
